@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #0A1128;
+    color: #A2ABAB;
+    line-height: 40px;
+    font-size: 14px;
+}
+h2 {
+    line-height: 50px;
+    font-style: italic;
+}
+ul {
+    background-color: #586994;
+    font-style: italic;
+}
+ol {
+    background-color: #586994;
+    font-style: italic;
+}
+a {
+    background-color: #7D869C;
+    font-style: italic;
+}
