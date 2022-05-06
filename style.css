@@ -8,6 +8,7 @@ body {
 h2 {
     line-height: 50px;
     font-style: italic;
+    padding: 1%;
 }
 ul {
     background-color: #586994;
@@ -20,4 +21,13 @@ ol {
 a {
     background-color: #7D869C;
     font-style: italic;
+}
+div {
+    border: 2px solid green;
+}
+#foto {
+    float: left;
+    height: 200px;
+    padding: 10px;
+    background-color: #a4bdbc
 }
